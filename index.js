@@ -19,4 +19,6 @@ function dec(a) {
 function makeInt(a){
   return a.toString()
 }
-
+funtion makeInt(a){
+  return (0, 10)
+}
