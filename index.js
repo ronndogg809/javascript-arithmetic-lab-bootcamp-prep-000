@@ -16,10 +16,8 @@ function inc(a) {
 function dec(a) {
   return (a - 1)
 }
-function makeInt(a){
+function assumes base to (a){
   return a.toString()
 }
- parseInt('0x2328', 10)
-   return ('0')
-
+ 
 
