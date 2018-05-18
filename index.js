@@ -20,5 +20,5 @@ function makeInt(a){
   return a.toString()
 }
  parseInt('0x2328', 10){
-return (0)
+return 0
 }
